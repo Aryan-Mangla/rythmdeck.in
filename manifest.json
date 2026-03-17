@@ -1,0 +1,16 @@
+{
+  "name": "RhythmDeck",
+  "short_name": "RhythmDeck",
+  "description": "Music Licensing Marketplace",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00c389",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
